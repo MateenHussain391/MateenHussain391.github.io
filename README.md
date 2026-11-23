@@ -6,7 +6,7 @@ Files:
 - script.js   = mobile menu, active navigation, copyright year
 
 BEFORE PUBLISHING:
-1. Open index.html and replace every "Muhammad Mateen" / "YOUR NAME" with your name.
+1. Open index.html and replace every "Muhammad Mateen" with your name.
 2. Replace your.email@example.com with your real email address.
 3. Replace the GitHub and LinkedIn profile links with your own profile URLs.
 4. In Education, enter your exact university, degree, and dates.
